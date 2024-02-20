@@ -1,20 +1,12 @@
-# Divi Theme
-![CI](https://github.com/elegantthemes/Divi/workflows/CI/badge.svg) ![Inspections](https://github.com/elegantthemes/Divi/workflows/Inspections/badge.svg)
+# Nest Eatery Redesign
 
-Divi is a powerful multipurpose WordPress theme built atop the Divi Builder
-framework, a revolutionary drag and drop page builder for WordPress. This theme
-is available as part of the ElegantThemes.com membership. The membership provides
-access to important theme updates and tech support, as well as the rest of 
-our awesome WordPress themes and plugins.
-
-https://www.elegantthemes.com/join/
+This repository is a backup for Threefold Design's redesign for the Nest Eatery website. The website redesign is done via Divi. All work featured here is done on the server, and then backed up here.
 
 
-## Getting Started
 
-To get started using Divi, we recommend browsing our extensive theme documentation
-at https://www.elegantthemes.com/documentation/divi/. Below are listed 
-some of the best tutorials for beginners. 
+## Divi Links
+
+Below is Divi's documentation in case needed. 
 
 **1. Installing Divi**
 https://www.elegantthemes.com/documentation/divi/install/
